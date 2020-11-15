@@ -1,0 +1,50 @@
+    * {
+        box-sizing: border-box;
+    }
+
+    html {
+        font-family: montserrat;
+        line-height: 1.6;
+        color: $clr5;
+    }
+
+    body {
+        font-size: rem(18px);
+        margin: 0;
+        font-family: montserrat;
+        color: $clr1;
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url('../../img/img1.jpg');
+    }
+
+    h1 {
+        font-size: rem(68px);
+        color: rgb(8, 3, 247);
+        text-align: center;
+    }
+
+    img {
+        width: 100%;
+    }
+
+    p {
+        font-size: rem(12px);
+        font-weight: 700;
+    }
+
+    button {
+        border-radius: 30px;
+        font-size: rem(16px);
+        width: 90px;
+        font-weight: 700;
+        padding: 10px;
+        text-align: center;
+        cursor: pointer;
+        outline-style: none;
+
+        &.active {
+            background-color: green;
+
+        }
+    }

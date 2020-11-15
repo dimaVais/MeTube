@@ -1,0 +1,59 @@
+.player-box {
+  width: 800px;
+  max-height: 750px;
+  background-color: rgba(177, 178, 243, 0.8);
+  border: solid 8px #bdbdbd;
+  border-radius: 10px;
+}
+.player-box iframe {
+  width: 800px;
+  height: 600px;
+}
+.player-box.fav-player {
+  width: 1200px;
+  max-height: 600px;
+}
+.player-box.fav-player iframe {
+  width: 1200px;
+  max-height: 600px;
+}
+
+@media (max-width: 600px) {
+  .player-box {
+    width: 500px;
+    max-height: 500px;
+    margin-top: 20px;
+  }
+  .player-box iframe {
+    width: 500px;
+    max-height: 550px;
+  }
+  .player-box.fav-player {
+    width: 500px;
+    max-height: 500px;
+  }
+  .player-box.fav-player iframe {
+    width: 500px;
+    max-height: 550px;
+  }
+}
+@media (max-width: 400px) {
+  .player-box {
+    width: 350px;
+    max-height: 450px;
+    margin-top: 20px;
+    font-size: 14px;
+  }
+  .player-box iframe {
+    width: 350px;
+    max-height: 450px;
+  }
+  .player-box.fav-player {
+    width: 350px;
+    max-height: 450px;
+  }
+  .player-box.fav-player iframe {
+    width: 350px;
+    max-height: 450px;
+  }
+}

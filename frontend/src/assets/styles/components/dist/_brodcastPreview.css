@@ -1,0 +1,10 @@
+.main-card {
+  max-width: 250px;
+  min-width: 250px;
+  min-height: 50vh;
+  background-color: rgba(177, 224, 243, 0.8);
+  padding: 10px;
+  margin: 20px;
+  border: solid 8px #bdbdbd;
+  border-radius: 10px;
+}
