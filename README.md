@@ -10,4 +10,5 @@ Link for he app on Heroku - https://metube-dima.herokuapp.com
 Screenshots - 
 
 ![Home Page](/App1.jpg?raw=true?raw=true "Home Page")
+
 ![Favorites](/App2.jpg?raw=true?raw=true "Favorites")
