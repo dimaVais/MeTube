@@ -8,4 +8,4 @@ The app is responsive for mobile.
 Link for he app on Heroku - https://metube-dima.herokuapp.com
 
 
-![Home Page](/dimaVais/MeTube/App1.jpg?raw=true "Home Page")
+![Home Page](/App1.jpg?raw=true?raw=true "Home Page")
