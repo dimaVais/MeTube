@@ -4,4 +4,5 @@ It also allows to save the favorite videos and play them on a separate regardles
 The frontend is written with React hooks and the backend with Node.js using express lib for the server.
 The app uses mongoDb on Atlas platform as remote DB and running on Heroku server.
 The app is responsive for mobile.
+Link for he app on Heroku - https://metube-dima.herokuapp.com
 
